@@ -1,0 +1,8 @@
+C:\Users\Gabriel\Source Code\C#\DWColorizer\DWColorizer\bin\Release\DWC.exe.config
+C:\Users\Gabriel\Source Code\C#\DWColorizer\DWColorizer\bin\Release\DWC.exe
+C:\Users\Gabriel\Source Code\C#\DWColorizer\DWColorizer\bin\Release\DWC.pdb
+C:\Users\Gabriel\Source Code\C#\DWColorizer\DWColorizer\obj\Release\DWColorizer.Properties.Resources.resources
+C:\Users\Gabriel\Source Code\C#\DWColorizer\DWColorizer\obj\Release\DWColorizer.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Source Code\C#\DWColorizer\DWColorizer\obj\Release\DWC.exe
+C:\Users\Gabriel\Source Code\C#\DWColorizer\DWColorizer\obj\Release\DWC.pdb
+C:\Users\Gabriel\Source Code\C#\DWColorizer\DWColorizer\obj\Release\DWColorizer.csprojResolveAssemblyReference.cache
